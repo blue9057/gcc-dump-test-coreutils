@@ -1,3 +1,11 @@
+Run ```./configscript.sh``` first.
+Then, build the project (e.g., run ```make -j4```)
+You will get a bunch of *.dot files under ```src/```.
+Use dot opener (e.g., ```xdot``` to see the graph).
+
+
+===== BELOW IS ABOUT COREUTILS =====
+
 These are the GNU core utilities.  This package is the union of
 the GNU fileutils, sh-utils, and textutils packages.
 
